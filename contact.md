@@ -11,4 +11,4 @@ por enquanto você pode me enviar um email, ou um tweet.
 [twitter]
 Email: contato@praganavictor.com.br
 
-[twitter]: https://twitter.com/praganavictor
+[twitter]: https://twitter.com/praganavictor 

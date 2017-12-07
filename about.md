@@ -18,5 +18,10 @@ Hoje eu trabalho na __Locaweb__ como suporte tecnico, aqui eu conheci muitas pes
 
 As linguagens de programação que mais gosto são Ruby, PHP, Javascript.
 
+<<<<<<< HEAD
 [github]: https://github.com/praganavictor
 [twitter]: https://twitter.com/praganavictor
+=======
+[github]: https://github.com/praganavictor/
+[twitter]: https://twitter.com/praganavictor
+>>>>>>> ee57885a8f284860cad0c2db944776f9da93fb31
