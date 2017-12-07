@@ -10,8 +10,7 @@ Meu nome é Victor Pragana, eu sou um `dev` ou pelo menos eu acho que sou.
 
 Você pode me encontrar em:
 
-[github]
-[twitter]
+[github] ou [twitter]
 
 Certo eu estudei Analise e desenvolvimento de sistemas, na faculdade Bandtec, achei muito divertido desenvolver sites e fazer aplicativos e todo o ecossistema de desenvolvimento. :-)
 
@@ -19,5 +18,5 @@ Hoje eu trabalho na __Locaweb__ como suporte tecnico, aqui eu conheci muitas pes
 
 As linguagens de programação que mais gosto são Ruby, PHP, Javascript.
 
-[github]: https://github.com/praganavictor/
+[github]: https://github.com/praganavictor
 [twitter]: https://twitter.com/praganavictor
