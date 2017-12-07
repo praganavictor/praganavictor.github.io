@@ -4,9 +4,20 @@ title: About
 permalink: /about/
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+"Press on. Nothing in the world can take the place of persistence." (Ray Kroc)
+
+Meu nome é Victor Pragana, eu sou um `dev` ou pelo menos eu acho que sou.
+
+Você pode me encontrar em:
+
+[github]
+[twitter]
+
+Certo eu estudei Analise e desenvolvimento de sistemas, na faculdade Bandtec, achei muito divertido desenvolver sites e fazer aplicativos e todo o ecossistema de desenvolvimento. :-)
+
+Hoje eu trabalho na __Locaweb__ como suporte tecnico, aqui eu conheci muitas pessoas famosas no meio da programaçao como `Diego Eis` e `Pothix`
+
+As linguagens de programação que mais gosto são Ruby, PHP, Javascript.
+
+[github]: https://github.com/praganavictor/
+[twitter]: https://twitter.com/praganavictor
