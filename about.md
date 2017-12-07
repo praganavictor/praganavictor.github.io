@@ -11,6 +11,7 @@ Meu nome é Victor Pragana, eu sou um `dev` ou pelo menos eu acho que sou.
 Você pode me encontrar em:
 
 [github]
+___
 [twitter]
 
 Certo eu estudei Analise e desenvolvimento de sistemas, na faculdade Bandtec, achei muito divertido desenvolver sites e fazer aplicativos e todo o ecossistema de desenvolvimento. :-)
