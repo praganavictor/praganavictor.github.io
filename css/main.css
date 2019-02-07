@@ -1,4 +1,4 @@
-.parallax { 
+.parallax {
 	height: 100vh;
 	background-image: url("../images/paris.jpg");
 	background-attachment: fixed;
@@ -6,26 +6,10 @@
 	background-repeat: no-repeat;
 	background-size: cover;
 	color: #fff;
-	padding-top: 40vh;	
+	padding-top: 40vh;
 }
 
 .middle-site {
 	padding-bottom: 5vh;
 	padding-top: 5vh;
-}
-
-.bottom-site { 
-	height: 50vh;
-	background-image: url("../images/paris.jpg");
-	background-attachment: fixed;
-	background-position: top;
-	background-repeat: no-repeat;
-	background-size: cover;
-	color: #fff;
-	padding-top: 20vh;	
-}
-
-.footer {
-	width: 100%;
-	padding: 20px;
 }
