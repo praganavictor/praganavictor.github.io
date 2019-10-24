@@ -4,14 +4,14 @@
   "name": "praganavictor",
   "scope": "/",
   "display": "standalone",
-  "start_url": "https://praganavictor.github.io/",
+  "start_url": ".",
   "short_name": "PV",
   "theme_color": "transparent",
   "description": "Pagina de Victor pragana",
   "orientation": "any",
   "background_color": "transparent",
-  "related_applications": "",
-  "prefer_related_applications": "false",
+  "related_applications": [],
+  "prefer_related_applications": false,
   "icons": [
     {
       "src": "images/hello-icon-128.png",
