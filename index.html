@@ -17,6 +17,19 @@
     <title>Hello, world!</title>
     <link rel="apple-touch-icon" href="/images/hello-icon-128.png" />
     <meta name="apple-mobile-web-app-status-bar" content="#3F7FBF" />
+    <script>
+      // Detecta se o dispositivo está no iOS
+      const isIos = () => {
+        const userAgent = window.navigator.userAgent.toLowerCase();
+        return /iphone|ipad|ipod/.test(userAgent);
+      };
+      // Detects if device is in standalone mode
+      const isInStandaloneMode = () =>
+        "standalone" in window.navigator && window.navigator.standalone; // Verifica se deve exibir notificação popup de instalação:
+      if (isIos() && !isInStandaloneMode()) {
+        this.setState({ showInstallMessage: true });
+      }
+    </script>
   </head>
   <body>
     <section class="parallax">
@@ -35,9 +48,7 @@
                   <a href="https://www.facebook.com/victorcesarmeriguepragana">Facebook</a> -
                   <a href="mailto:victormerigue@gmail.com?Subject=Hello%20World" target="_top"
                     >E-mail</a
-                  >
-                  -
-                  <a href="http://br.op.gg/summoner/userName=vetorz">League of legends</a>
+                  >-<a href="http://br.op.gg/summoner/userName=vetorz">League of legends</a>
                 </p>
               </div>
             </div>
