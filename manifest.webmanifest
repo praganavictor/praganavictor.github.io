@@ -6,10 +6,10 @@
   "display": "standalone",
   "start_url": ".",
   "short_name": "PV",
-  "theme_color": "transparent",
+  "theme_color": "#3F7FBF",
   "description": "Pagina de Victor pragana",
-  "orientation": "any",
-  "background_color": "transparent",
+  "orientation": "portrait",
+  "background_color": "#3F7FBF",
   "related_applications": [],
   "prefer_related_applications": false,
   "icons": [
